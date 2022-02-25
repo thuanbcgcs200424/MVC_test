@@ -1,0 +1,31 @@
+{
+  "name": "mvc_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuanbcgcs200424/MVC_test.git"
+  },
+  "keywords": [
+    "create",
+    "MVC",
+    "nodejs"
+  ],
+  "author": "thuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thuanbcgcs200424/MVC_test/issues"
+  },
+  "homepage": "https://github.com/thuanbcgcs200424/MVC_test#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
